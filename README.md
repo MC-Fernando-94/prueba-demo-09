@@ -3,5 +3,7 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
+## GIT
 Pueden hacer lo que quieran...
+
+cambios realizado
